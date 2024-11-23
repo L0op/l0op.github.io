@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "My Awesome Project",
   description: "A VitePress Site",
-  base: '/blog/', // 如果想用 https://l0op.github.io/blog/
+  // base: '/blog/', // 如果想用 https://l0op.github.io/blog/
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
